@@ -1,0 +1,1 @@
+console.log("Site loaded successfully from AWS S3 + CloudFront!");
